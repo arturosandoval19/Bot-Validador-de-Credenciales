@@ -8,6 +8,7 @@ Con este bot, se optimiza el flujo de trabajo, mejorando la experiencia del usua
 
 
 
+![WhatsApp Image 2025-01-17 at 1 14 00 PM](https://github.com/user-attachments/assets/7f305a47-70d3-4dda-bfad-8d90b329ba4f)
 
 
 📝 Contactos
