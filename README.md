@@ -12,7 +12,7 @@ Con este bot, se optimiza el flujo de trabajo, mejorando la experiencia del usua
 
 
 📝 Contactos
-Whatsapp: (+51 928221439)  https://w.app/tecnologiasandoval
+Whatsapp: (+51 928221439)  https://wa.link/237bkx
 Correo: tecnologiasandoval2023@gmail.com
 Github @arturosandoval19 ·  
 Youtube:https://www.youtube.com/@tecnolog%C3%ADaSandoval
